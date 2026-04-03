@@ -17,6 +17,9 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   title: "Dia Chat - Your Empathetic AI Companion",
   description: "A safe space for reflection and support. Dia is designed to listen, understand, and engage with you in meaningful conversations.",
+  verification: {
+    google: "13ziI4ywIRQpDjxYvyXx-jBchKRMP_PZFMR5dbuOD2M",
+  },
   keywords: ["AI chatbot", "mental health", "wellness", "Gen Z", "companion", "emotional support"],
   authors: [{ name: "Dia Chat" }],
   manifest: '/manifest.webmanifest',
